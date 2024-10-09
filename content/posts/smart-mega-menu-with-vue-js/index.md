@@ -157,7 +157,7 @@ export default {
 
 We have now laid the foundation for this project. Hovering the  _Products_  menu item should toggle the mega menu component. The  `template`  section of the  `MegaMenu`  component is made up of two side-by-side  `div`s representing a vertical list of main categories on the left and a square grid of sub-categories with images on the right. We’re using a  `grid`  display to achieve a ratio of 1 to 3 for these two  `div`s. There is a handy  [online tool for generating CSS grids](https://grid.layoutit.com/)  that comes with an intuitive interface and visualization to quickly configure your desired layout.
 
-[![](assets/layout-it.png)](https://grid.layoutit.com/)
+[![](https://raw.githubusercontent.com/themreza/mega-menu/refs/heads/main/img/layout-it.png)](https://grid.layoutit.com/)
 
 The main and sub-category items are generated using the  `v-if`  directive for simplicity, but in a real-life project this would be connected to an API to retrieve the actual product categories. If you’re going that route, I recommend making your API calls using Vue’s state management pattern known as  [Vuex](https://vuex.vuejs.org/).
 
