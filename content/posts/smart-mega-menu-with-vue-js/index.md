@@ -2,6 +2,7 @@
 title = 'Smart Mega Menu with Vue.js'
 date = 2021-07-26T18:21:00+02:00
 draft = false
+tags = ['UI', 'UX', 'Figma', 'Vue.js', 'JavaScript', 'HTML', 'CSS']
 +++
 
 ![](https://raw.githubusercontent.com/themreza/mega-menu/main/img/mega-menu-ux-4.gif)
