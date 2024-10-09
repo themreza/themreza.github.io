@@ -15,7 +15,7 @@ title = "Mohammad Tomaraei"
 [params.author]
   name = "Mohammad Tomaraei"
   image = "img/mo.jpeg"
-  headline = "My personal blog"
+  headline = "A polyglot software developer and data engineer passionate about learning, open-source, art, and traveling."
   bio = "A polyglot software developer and data engineer passionate about learning, open-source, art, and traveling."
   links = [
   #   { email = "mailto:hello@your_domain.com" },

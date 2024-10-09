@@ -31,17 +31,17 @@
   [main.params]
     action = "search"
 
-[[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
+#[[main]]
+#  identifier = "locale"
+#  weight = 100
+#  [main.params]
+#    action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
 # the copyright notice. Configure as per the main menu above.
 
-# [[footer]]
-#   name = "Tags"
-#   pageRef = "tags"
-#   weight = 10
+[[footer]]
+ name = "Privacy"
+ url = "https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement"
+ weight = 10
